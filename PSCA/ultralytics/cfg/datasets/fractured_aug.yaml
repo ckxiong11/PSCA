@@ -1,0 +1,10 @@
+train: F:/ckx/fractured_aug/dataSet_path/train.txt
+val: F:/ckx/fractured_aug/dataSet_path/val.txt
+test:  F:/ckx/fractured_aug/dataSet_path/test.txt
+# number of classes
+
+# class names
+names:
+  0: Mandibular angle fracture
+  1: Mandibular body fracture
+  2: condylar process fracture

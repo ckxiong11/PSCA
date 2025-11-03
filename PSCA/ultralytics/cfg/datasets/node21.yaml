@@ -1,0 +1,6 @@
+train: F:/ckx/node21/data2yolo/images/train
+val: F:/ckx/node21/data2yolo/images/val
+test: F:/ckx/node21/data2yolo/images/test
+
+nc: 1
+names: ['target']

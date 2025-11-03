@@ -1,0 +1,10 @@
+train: F:/ckx/ckx/model1/ultralytics-main/VOCdevkit/VOC2007/dataSet_path/train.txt
+val: F:/ckx/ckx/model1/ultralytics-main/VOCdevkit/VOC2007/dataSet_path/val.txt
+test:  F:/ckx/ckx/model1/ultralytics-main/VOCdevkit/VOC2007/dataSet_path/test.txt
+# number of classes
+
+# class names
+names:
+  0: Mandibular angle fracture
+  1: Mandibular body fracture
+  2: condylar process fracture
